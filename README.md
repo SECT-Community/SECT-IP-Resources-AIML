@@ -79,15 +79,14 @@ Here’s what you’ll find:
 
 ## 🧠 Stack in Use
 
-\`\`\`python
+```python
 aiml_stack = {
   languages: ['Python', 'R'],
   libs: ['scikit-learn', 'TensorFlow', 'PyTorch', 'Pandas', 'Matplotlib'],
   tools: ['Jupyter', 'Colab', 'VS Code'],
   mindset: ['Curious', 'Experimental', 'Growth-Oriented']
 }
-\`\`\`
-
+```
 ---
 
 ## 🙌 Connect With The Tribe
